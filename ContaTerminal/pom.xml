@@ -10,4 +10,5 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <exec.mainClass>com.mycompany.contaterminal.ContaTerminal</exec.mainClass>
     </properties>
+    <name>ContaBanco</name>
 </project>
